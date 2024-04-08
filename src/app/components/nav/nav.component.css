@@ -1,0 +1,40 @@
+.custom-nav {
+    background: rgb(128, 117, 196);
+    background: linear-gradient(90deg, rgba(128, 117, 196, 1) 0%, rgba(92, 85, 155, 1) 35%, rgba(128, 117, 196, 1) 100%);
+}
+
+.custom-brand {
+    font-family: 'Madimi One', cursive;
+    /* font-weight: 600; */
+    color: #fff;
+    line-height: 10px;
+}
+
+/* .custom-nav{
+    margin: auto;
+} */
+
+.custom-toggler {
+    border: none;
+    /* Remove the border */
+    background-color: transparent;
+    /* Make the background transparent */
+    outline: none;
+    /* Remove the outline */
+}
+
+.custom-toggler:focus {
+    outline: none;
+    /* Remove the focus outline */
+    border-color: transparent;
+    /* Make the border transparent */
+    box-shadow: none;
+    /* Remove any box shadow */
+}
+
+.custom-link {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #fff;
+    font-size: 17px;
+}

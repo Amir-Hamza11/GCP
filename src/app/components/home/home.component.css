@@ -1,0 +1,53 @@
+.custom-home {
+    background: rgb(128, 117, 196);
+    background: linear-gradient(90deg, rgba(128, 117, 196, 1) 0%, rgba(92, 85, 155, 1) 35%, rgba(128, 117, 196, 1) 100%);
+
+}
+
+.custom-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 45px;
+}
+
+.custom-box h3,
+h6 {
+    color: #fff;
+    line-height: 30px;
+}
+
+.custom-image1 {
+    width: 250px;
+    height: auto;
+}
+
+.custom-image1 img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+/* Wave  */
+
+.custom-shape-divider-bottom-1712617897 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1712617897 svg {
+    position: relative;
+    display: block;
+    width: calc(110% + 1.3px);
+    height: 81px;
+}
+
+.custom-shape-divider-bottom-1712617897 .shape-fill {
+    fill: #FFFFFF;
+}
