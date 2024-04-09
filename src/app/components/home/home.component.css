@@ -32,22 +32,23 @@ h6 {
 
 /* Wave  */
 
-.custom-shape-divider-bottom-1712617897 {
+.custom-shape-divider-bottom-1712701915 {
     position: absolute;
     bottom: 0;
     left: 0;
     width: 100%;
     overflow: hidden;
     line-height: 0;
+    transform: rotate(180deg);
 }
 
-.custom-shape-divider-bottom-1712617897 svg {
+.custom-shape-divider-bottom-1712701915 svg {
     position: relative;
     display: block;
-    width: calc(110% + 1.3px);
-    height: 81px;
+    width: calc(132% + 1.3px);
+    height: 130px;
 }
 
-.custom-shape-divider-bottom-1712617897 .shape-fill {
+.custom-shape-divider-bottom-1712701915 .shape-fill {
     fill: #FFFFFF;
 }
